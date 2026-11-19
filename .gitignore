@@ -24,3 +24,7 @@ android/key.properties
 *.env
 android/app/google-services.json
 run.ps1
+
+# Cache Kotlin
+android/.kotlin/
+*.iml
