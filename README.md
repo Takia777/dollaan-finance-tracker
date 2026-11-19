@@ -104,7 +104,7 @@ Banyak mahasiswa punya uang yang tersebar di rekening bank, e-wallet, kartu e-mo
 
 ```bash
 # 1. Clone
-git clone https://github.com/<username>/dollaan.git
+git clone https://github.com/Takia777/dollaan-finance-tracker.git
 cd dollaan
 
 # 2. Hanya jika folder android/ belum ada: buat folder platform
